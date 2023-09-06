@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.head {
+  color: #2d3a35;
+  font-size: 40px;
+}
+.container {
+  background-color: #f1f5f8;
+  text-align: center;
+  background-size: cover;
+}
+.count {
+  color: #c20a72;
+  font-size: 40px;
+}
+
+.par {
+  color: 2d3a35;
+}
+.btn {
+  color: white;
+  background-color: #007bff;
+  border-radius: 5px;
+  border-width: 0px;
+  padding: 2px;
+}
